@@ -1,15 +1,15 @@
 package com.smart.web;
 
 public class LoginCommand {
-    private String ueserName;
+    private String userName;
     private String password;
 
-    public String getUeserName() {
-        return ueserName;
+    public String getUserName() {
+        return userName;
     }
 
-    public void setUeserName(String ueserName) {
-        this.ueserName = ueserName;
+    public void setUserName(String userName) {
+        this.userName = userName;
     }
 
     public String getPassword() {
